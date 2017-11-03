@@ -242,7 +242,7 @@
         status: false,
         name: "Anti-Sociopatai",
         loggedInID: null,
-        scriptLink: "https://rawgit.com/javascripto/basicBot-v2/master/basicBot.js",
+        scriptLink: "https://rawgit.com/Rokutisrokas/Rokutisrokas/master/lol1.js",
         cmdLink: "http://git.io/245Ppg",
         chatLink: "https://rawgit.com/Rokutisrokas/Rokutisrokas/master/DaViena1s.json",
         chat: null,
@@ -252,8 +252,8 @@
         settings: {
             botName: "Anti-Sociopatai",
             language: "Lithuanian",
-            chatLink: "https://rawgit.com/Rokutisrokas/Rokutisrokas/master/lol.json",
-            scriptLink: "https://rawgit.com/javascripto/basicBot-v2/master/basicBot.js",
+            chatLink: "https://rawgit.com/Rokutisrokas/Rokutisrokas/master/DaViena1s.json",
+            scriptLink: "https://rawgit.com/Rokutisrokas/Rokutisrokas/master/lol1.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 200, // 1-200
             startupVolume: 20, // 0-100
