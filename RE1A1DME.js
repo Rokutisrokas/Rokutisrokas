@@ -252,7 +252,7 @@
         settings: {
             botName: "Anti-Sociopatai",
             language: "Lithuanian",
-            chatLink: "https://rawgit.com/Rokutisrokas/Rokutisrokas/master/DaViena1s.json",
+            chatLink: "https://rawgit.com/Rokutisrokas/Rokutisrokas/master/lol.json",
             scriptLink: "https://rawgit.com/javascripto/basicBot-v2/master/basicBot.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 200, // 1-200
